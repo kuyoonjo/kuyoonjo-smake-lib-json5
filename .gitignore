@@ -10,3 +10,6 @@
 /.smake
 /.vscode
 /.ninja_log
+/.ninja_deps
+/pnpm-lock.yaml
+/compile_commands.json
